@@ -8,13 +8,38 @@ To use the app Speedy, select text you want to speed read and choose Speedy from
 
 Peace✌🏼
 
+### Reference:
+
+- [Spritz](http://spritzinc.com/the-science) - Inspired by the speed reading methodology - Sprtiz.
+- [Writz](https://www.flickr.com/photos/palaniraja-mca/15666950097/in/album-72157649000499147/) - My Apple Watch app for speed reading (Prototype* - never released)
+- [Jetzt](https://ds300.github.io/jetzt/) - A chrome extension which i have been using a long time, which is also the inspiration for the UI.
+
+
 # Keyboard Shortcuts
 
-* SPACE - Pause/Unpause read
-* UP - Read Faster. Increase Words-per-minute by 25 (eg., 350+25 = 375)
-* DOWN - Read Slower - Decrease Words-per-minute by 25 (eg., 350-25 = 325)
-* ⌘+v - Read text from clipboard
-* ESC or Q - Quit Speedy
+<table>
+    <tr>
+        <td>SPACE</td>
+        <td>Pause/Unpause read</td>
+    </tr>
+    <tr>
+        <td>DOWN Arrow</td>
+        <td>Read Faster. Increase Words-per-minute (WPM) by 25 (eg., 350+25 = 375)</td>
+    </tr>
+    <tr>
+        <td>DOWN Arrow</td>
+        <td>Read Slower - Decrease Words-per-minute (WPM) by 25 (eg., 350-25 = 325)</td>
+    </tr>
+    <tr>
+        <td>⌘ + V</td>
+        <td>Read text from clipboard</td>
+    </tr>
+    <tr>
+        <td>ESC or Q </td>
+        <td>Quit Speedy</td>
+    </tr>
+</table>
+
 
 ## Download
 
