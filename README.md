@@ -1,6 +1,6 @@
 # Speedy
 
-Speedy is an utility application for Mac OS X that let you read the text faster. 
+Speedy is an utility application for Mac OS X that lets you read the text faster. 
 
 I created to read the emails & news faster, as I have a tendency to lost in  'endless space between the words' with my lack of concentration or I should say gift of imagination? 
 
