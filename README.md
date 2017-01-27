@@ -45,7 +45,7 @@ Peace✌🏼
 
 Pre-Release version (Free) 
 
-* v1.0 - https://goo.gl/IWUpkA
+* v1.1 - https://goo.gl/ufjM4j
 
 
 ## Demo (video):
