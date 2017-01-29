@@ -45,7 +45,7 @@ Peace✌🏼
 
 Pre-Release version (Free) 
 
-* v1.1 - https://goo.gl/ufjM4j
+* v1.2 - https://goo.gl/ufjM4j
 
 
 ## Demo (video):
@@ -53,3 +53,19 @@ Pre-Release version (Free)
 [![Speedy demo youtube link](https://img.youtube.com/vi/6N0XEebYNcE/0.jpg)](https://www.youtube.com/watch?v=6N0XEebYNcE)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6N0XEebYNcE" frameborder="0" allowfullscreen></iframe>
+
+
+##Revision History
+
+###V1.2
+
+* Ability to save and restore last saved (auto saved) WPM
+
+###V1.1
+
+* Deployment target set to 10.10 so it can run in Yosemite
+
+###V1.0
+
+* Initial release
+
