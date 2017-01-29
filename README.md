@@ -57,15 +57,15 @@ Pre-Release version (Free)
 
 ##Revision History
 
-###V1.2
+###v1.2
 
 * Ability to save and restore last saved (auto saved) WPM
 
-###V1.1
+###v1.1
 
 * Deployment target set to 10.10 so it can run in Yosemite
 
-###V1.0
+###v1.0
 
 * Initial release
 
