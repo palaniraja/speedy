@@ -38,6 +38,10 @@ Peace✌🏼
         <td>ESC or Q </td>
         <td>Quit Speedy</td>
     </tr>
+    <tr>
+        <td>D</td>
+        <td>Debug - To speed-read debug text to check app is functioning as expected. (To test app is listening for the notification)</td>
+    </tr>
 </table>
 
 
