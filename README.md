@@ -66,6 +66,10 @@ Pre-Release version (Free)
 * UI - Compact UI, without title bar too.
 * BugFix - If window closed, next launch via services didn't bring the window.
 
+###v1.3
+
+* Can be invoked globally by ⌘ + ⇧ + E
+
 ###v1.2
 
 * Ability to save and restore last saved (auto saved) WPM
