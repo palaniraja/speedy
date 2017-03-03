@@ -49,7 +49,7 @@ Peace✌🏼
 
 Pre-Release version (Free) 
 
-* v1.2 - https://goo.gl/ufjM4j
+* v1.4 - https://goo.gl/bhT4kA
 
 
 ## Demo (video):
@@ -60,6 +60,11 @@ Pre-Release version (Free)
 
 
 ##Revision History
+
+###v1.4
+
+* UI - Compact UI, without title bar too.
+* BugFix - If window closed, next launch via services didn't bring the window.
 
 ###v1.2
 
