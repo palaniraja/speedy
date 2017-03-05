@@ -18,6 +18,10 @@ Peace✌🏼
 # Keyboard Shortcuts
 
 <table>
+<tr>
+        <td width="150px">⌘ + ⇧ + E</td>
+        <td>To open Speedy from any app/system level to speed-read selected text</td>
+    </tr>
     <tr>
         <td>SPACE</td>
         <td>Pause/Unpause read</td>
