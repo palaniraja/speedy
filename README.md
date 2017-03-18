@@ -60,7 +60,7 @@ Pre-Release version (Free)
 
 [![Speedy demo youtube link](https://img.youtube.com/vi/6N0XEebYNcE/0.jpg)](https://www.youtube.com/watch?v=6N0XEebYNcE)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6N0XEebYNcE" frameborder="0" allowfullscreen></iframe>
+
 
 
 ##Revision History
