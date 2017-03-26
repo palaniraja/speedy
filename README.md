@@ -63,7 +63,11 @@ Pre-Release version (Free)
 
 
 
-## Revision History
+## Release notes
+
+### v1.5
+
+* Left / Right arrow - Rewind or Forward 5 words
 
 ### v1.4
 
