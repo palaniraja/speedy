@@ -53,7 +53,7 @@ Peace✌🏼
 
 Pre-Release version (Free) 
 
-* v1.5 - https://goo.gl/bhT4kA
+* v1.6 - https://goo.gl/bhT4kA
 
 
 ## Demo (video):
@@ -64,6 +64,10 @@ Pre-Release version (Free)
 
 
 ## Release notes
+
+### v1.6
+
+* Option key + left or right arrow to rewind/forward by 10 words
 
 ### v1.5
 
