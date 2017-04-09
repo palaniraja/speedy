@@ -1,5 +1,7 @@
 # Speedy
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/palaniraja)
+
 Speedy is an utility application for Mac OS X that lets you read the text faster. 
 
 I created to read the emails & news faster, as I have a tendency to lost in  ['endless space between the words'](http://www.imdb.com/title/tt1798709/quotes?item=qt2085733) with my lack of concentration or I should say gift of imagination? 
