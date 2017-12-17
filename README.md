@@ -55,7 +55,7 @@ Peace✌🏼
 
 Pre-Release version (Free) 
 
-* v1.6 - https://goo.gl/bhT4kA
+* v1.7 - https://github.com/palaniraja/speedy/releases
 
 
 ## Demo (video):
@@ -66,6 +66,12 @@ Pre-Release version (Free)
 
 
 ## Release notes
+
+### v1.7
+
+* Default Font updated
+
+Now featuring Monaco 27pt. It was Lucida Console 26 earlier, I recently learned it is not a default OS X font!
 
 ### v1.6
 
