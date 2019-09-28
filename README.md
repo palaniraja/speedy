@@ -37,6 +37,14 @@ Peace✌🏼
         <td>Read Slower. Decrease Words-per-minute (WPM) by 25 (eg., 350-25 = 325)</td>
     </tr>
     <tr>
+        <td>LEFT Arrow</td>
+        <td>Rewind by 5 words, if you missed.</td>
+    </tr>
+    <tr>
+        <td>RIGHT Arrow</td>
+        <td>Go Forward by 5 words, if you went too many words!.</td>
+    </tr>
+    <tr>
         <td>⌘ + V</td>
         <td>Read text from clipboard</td>
     </tr>
