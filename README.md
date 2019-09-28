@@ -42,7 +42,7 @@ Peace✌🏼
     </tr>
     <tr>
         <td>RIGHT Arrow</td>
-        <td>Go Forward by 5 words, if you went too many words!.</td>
+        <td>Go Forward by 5 words, if you went back too many words!</td>
     </tr>
     <tr>
         <td>⌘ + V</td>
